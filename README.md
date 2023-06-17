@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlexDavidTD
+- 👀 I’m interested in the innovation, development & research on the agroindustry
+- 🌱 I’m currently learning software development, Workflow in Joint Programming and Repositories
+- 💞️ I'm looking to collaborate on development and innovation of agroindustry
+- 📫 How to reach me ... I live in Colombia, in Urabá - Antioquia, I study at the University of Antioquia, my email is: alex.torres@udea.edu.co
